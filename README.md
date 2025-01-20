@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @abhay0625 (wanna be AI expert in Data Sciience and Business Management)
+- 👋 Hi, I’m @abhay0625 (wanna be AI Generalist and studied Business Management)
 - 👀 I’m interested in Technical Projects and Management projects to ensure learning .....
-- 🌱 I’m currently learning data manipulation. 
-- 💞️ I’m looking to collaborate on new flutter projects...
-- 📫 How to reach me :- Abhay Nagarkoti on linkedin ..( Dont hesitate to embark .. You are welcome)..
+- 🌱 I’m currently learning to communicate better and get a job that aligns with my career goals. 
+- 💞️ I’m looking to collaborate on new projects...
+- 📫 How to reach me :-
+nagarkotiabhay@gmail.com 
+- Abhay Nagarkoti
+- ..( Dont hesitate to embark .. You are welcome)..
 
 <!---
 abhay0625/abhay0625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
